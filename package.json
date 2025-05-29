@@ -1,0 +1,10 @@
+{
+  "name": "hyperdom",
+  "version": "0.1.0",
+  "description": "A fast, feature rich and simple framework for building dynamic browser applications.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
