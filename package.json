@@ -1,6 +1,6 @@
 {
   "name": "hyperdom",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A fast, feature rich and simple framework for building dynamic browser applications.",
   "main": "src/index.ts",
   "scripts": {
